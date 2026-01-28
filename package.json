@@ -19,7 +19,7 @@
     "@rollup/plugin-node-resolve": "^9.0.0",
     "@rollup/plugin-replace": "^2.3.4",
     "autoprefixer": "^10.0.1",
-    "cheerio": "^1.0.0-rc.3",
+    "cheerio": "^1.0.0",
     "core-js": "^3.6.5",
     "finalhandler": "^1.1.2",
     "mdn-polyfills": "^5.20.0",
